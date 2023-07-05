@@ -7,7 +7,7 @@ function App() {
   const [paragraph, setParagraph] = useState([
     {
       id: 1,
-      text: "dsjdsk",
+      text: "paragraph",
     },
   ]);
   function addParagraph(newData) {
